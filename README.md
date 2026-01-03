@@ -6,7 +6,7 @@
 
 <br>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jayeshlomate)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=jayeshlomate&color=00FF00&style=for-the-badge&label=Profile+Views)
 

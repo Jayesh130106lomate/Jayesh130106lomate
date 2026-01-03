@@ -43,7 +43,7 @@
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,bash,git,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,bash,git,linux&perline=8" />
 </p>
 
 ```python

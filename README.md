@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=JAYESH%20LOMATE&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Ethical+Hacker+%7C+Red+Team+Enthusiast;Top+4%25+on+TryHackMe+%7C+Global+Rank;CTF+Player+%7C+Security+Researcher;Backend+%26+Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%7C+Ethical+Hacker;Red+Team+Enthusiast+%7C+Top+4%25+TryHackMe;CTF+Player+%7C+Security+Researcher;Offensive+Security+%7C+Web+Exploitation" alt="Typing SVG" />
 
 <br>
 
@@ -19,14 +19,22 @@
 ```bash
 ┌──(jayesh㉿kali)-[~]
 └─$ cat identity.txt
+
+[*] Initializing profile...
+[+] Access granted: Penetration Tester & Ethical Hacker
+[+] Specialization: Offensive Security | Web Exploitation
+[+] Rank: Top 4% Global on TryHackMe
+[!] Status: Active in CTF battles & security research
 ```
 
-🔐 **Ethical Hacker & Red Team Practitioner**  
-🏆 **Top 4% Global Rank on TryHackMe** - Consistent performance in security challenges  
-🚩 **Active CTF Player** - Hands-on exploitation and real-world scenarios  
-💻 **Security-Focused Developer** - Building hardened backend & full-stack applications
+🎯 **Penetration Tester & Ethical Hacker**  
+⚔️ **Red Team Practitioner** - Offensive security & adversarial simulation  
+🏆 **Top 4% Global Rank on TryHackMe** - 150+ machines compromised  
+🚩 **CTF Warrior** - Active exploitation, privilege escalation, post-exploitation  
+💻 **Security Developer** - Building secure systems & exploitation tools
 
-> *"Breaking systems to build better defenses"*
+> *"Breaking into systems to build unbreakable defenses"*  
+> *— Penetration testing is not just finding vulnerabilities, it's understanding the attacker's mind*
 
 ---
 
@@ -46,28 +54,30 @@ skills = {
 }
 ```
 
-### 🔴 Cybersecurity & Red Team
+### 🔴 Penetration Testing & Red Team
 
 <table>
 <tr>
 <td width="50%">
 
-**🌐 Web Application Security**
-- SQL Injection (SQLi)
-- Cross-Site Scripting (XSS)
-- CSRF & IDOR
-- LFI/RFI
-- Auth Bypass
+**🌐 Web Application Penetration Testing**
+- 💉 SQL Injection (SQLi) - Database extraction & exploitation
+- 🎭 Cross-Site Scripting (XSS) - Session hijacking & DOM manipulation
+- 🔗 CSRF & IDOR - Access control exploitation
+- 📁 LFI/RFI - Remote code execution via file inclusion
+- 🔓 Authentication Bypass - Session manipulation & broken auth
+- 🚀 Command Injection - OS-level exploitation
 
 </td>
 <td width="50%">
 
-**⚔️ Attack Methodology**
-- Reconnaissance & Enumeration
-- Privilege Escalation (Linux)
-- Password Attacks & Brute-Forcing
-- Exploitation & Post-Exploitation
-- Security Reporting
+**⚔️ Penetration Testing Methodology**
+- 🔍 **Reconnaissance** - OSINT, subdomain enumeration, fingerprinting
+- 📡 **Scanning & Enumeration** - Port scanning, service detection
+- 💥 **Exploitation** - Weaponizing vulnerabilities, payload delivery
+- ⬆️ **Privilege Escalation** - Linux/Windows kernel exploits, misconfigs
+- 🎯 **Post-Exploitation** - Persistence, lateral movement, data exfil
+- 📝 **Reporting** - Professional pentest reports with remediation
 
 </td>
 </tr>
@@ -92,28 +102,51 @@ skills = {
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Conquests
+
+```bash
+┌──(jayesh㉿kali)-[~/achievements]
+└─$ cat hall_of_fame.txt
+```
 
 <div align="center">
 
-🥇 **TryHackMe: Top 4% Global Rank** - 150+ CTF rooms completed  
-🚩 **Active CTF Player** - Real-world exploitation scenarios  
-🔬 **Security Labs** - Vulnerable systems & attack vectors  
-📝 **CTF Writeups** - Documenting methodologies & mitigations  
-🛠️ **Security Tools** - Open-source vulnerability scanners & exploit scripts
+🥇 **TryHackMe: Top 4% Global Rank** - 150+ machines pwned, root access achieved  
+🚩 **CTF Warrior** - Active in CTF competitions, exploitation challenges  
+🔬 **Penetration Testing Labs** - HackTheBox, PortSwigger, VulnHub machines compromised  
+💀 **Exploit Development** - Custom exploit scripts for various CVEs  
+📝 **Security Writeups** - Detailed penetration testing reports & CTF walkthroughs  
+🛠️ **Security Tooling** - Open-source vulnerability scanners & automated exploitation frameworks
+
+```ascii
+    _______  _______ ___ ___  _______  
+   |   _   ||   _   |   Y   ||   _   | 
+   |.  1   ||.  1   |.  |   ||.  1___| 
+   |.  ____||.  _   |.  |   ||.  __)_  
+   |:  |    |:  |   |:  1   ||:  1   | 
+   |::.|    |::.|:. |::.. . ||::.. . | 
+   `---'    `--- ---`-------'`-------' 
+   [Penetration Testing Achievement Unlocked]
+```
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 📂 Penetration Testing Arsenal & Projects
+
+```bash
+┌──(jayesh㉿kali)-[~/tools]
+└─$ ls -la projects/
+```
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🔐 **Web Vulnerability Scanner** | Automated scanner for SQLi, XSS, LFI detection | Python, Requests, BeautifulSoup |
-| ⚡ **Brute-Force Automation Suite** | Multi-protocol brute-forcing with rate limiting | Python, Threading, Asyncio |
-| 📝 **CTF Writeups Repository** | Detailed walkthroughs with methodology | Markdown, Bash, Python |
-| 🛡️ **Secure Backend API** | Security-focused REST API with JWT auth | Java, Spring Boot, PostgreSQL |
+| 🔐 **Web Vulnerability Scanner** | Automated pentesting tool for SQLi, XSS, LFI, RCE detection | Python, Requests, BeautifulSoup |
+| ⚡ **Brute-Force Automation Suite** | Multi-protocol credential stuffing & brute-forcing framework | Python, Threading, Asyncio |
+| 💣 **Exploit Development Scripts** | Custom exploits for known CVEs & zero-day research | Python, C, Shellcode |
+| 📝 **CTF Writeups & Walkthroughs** | Detailed penetration testing reports with MITRE ATT&CK mapping | Markdown, Bash, Python |
+| 🛡️ **Secure API with WAF** | Security-hardened REST API with custom firewall rules | Java, Spring Boot, PostgreSQL |
 
 ---
 
@@ -165,16 +198,29 @@ skills = {
 
 ---
 
-## 💼 Currently Working On
+## 💼 Current Operations
 
 ```python
-current_focus = {
-    "Research": "Web application penetration testing techniques",
-    "Development": "Security automation tools in Python",
-    "Learning": "Advanced Linux privilege escalation",
-    "Competition": "CTF challenges and security events",
-    "Building": "Secure, scalable backend applications"
-}
+#!/usr/bin/env python3
+# Current penetration testing operations
+
+class PenetrationTester:
+    def __init__(self):
+        self.target = "Web Applications & Infrastructure"
+        self.mission = "Offensive Security Operations"
+    
+    def current_operations(self):
+        return {
+            "🔍 Research": "Advanced web application penetration testing techniques",
+            "💻 Development": "Building automated exploitation frameworks in Python",
+            "📚 Learning": "Active Directory penetration testing & privilege escalation",
+            "🚩 Competition": "CTF battles, bug bounty hunting, security challenges",
+            "⚔️ Red Teaming": "Adversarial simulation & offensive security research",
+            "🛠️ Building": "Custom exploit scripts & penetration testing tools"
+        }
+
+pentester = PenetrationTester()
+print("[*] Mission: Break systems, Build defenses, Repeat.")
 ```
 
 ---
@@ -200,7 +246,19 @@ current_focus = {
 ```bash
 ┌──(jayesh㉿kali)-[~]
 └─$ whoami
-Jayesh Lomate | Ethical Hacker | Security Researcher | CTF Player
+Jayesh Lomate
+
+┌──(jayesh㉿kali)-[~]
+└─$ cat /etc/passwd | grep jayesh
+jayesh:x:1337:1337:Penetration Tester,Ethical Hacker,Red Team:/home/jayesh:/bin/bash
+
+┌──(jayesh㉿kali)-[~]
+└─$ groups
+pentester redteam ctf-player ethical-hacker offensive-security
+
+┌──(jayesh㉿kali)-[~]
+└─$ echo $MISSION
+"Testing security by thinking like an attacker, building defenses like a defender"
 ```
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)

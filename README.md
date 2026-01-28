@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=JAYESH%20LOMATE&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=JAYESH%20LOMATE&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester+%7C+Ethical+Hacker;Red+Team+Enthusiast+%7C+Top+4%25+TryHackMe;CTF+Player+%7C+Security+Researcher;Offensive+Security+%7C+Web+Exploitation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00FF31&center=true&vCenter=true&width=700&lines=Penetration+Tester+%7C+Ethical+Hacker;Red+Team+Enthusiast+%7C+Top+3%25+TryHackMe;CTF+Player+%7C+Security+Researcher;Offensive+Security+%7C+Web+Exploitation" alt="Typing SVG" />
 
 <br>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jayeshlomate)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jayeshlomate)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=jayeshlomate&color=00FF00&style=for-the-badge&label=Profile+Views)
 
@@ -23,13 +23,13 @@
 [*] Initializing profile...
 [+] Access granted: Penetration Tester & Ethical Hacker
 [+] Specialization: Offensive Security | Web Exploitation
-[+] Rank: Top 4% Global on TryHackMe
+[+] Rank: Top 3% Global on TryHackMe
 [!] Status: Active in CTF battles & security research
 ```
 
 🎯 **Penetration Tester & Ethical Hacker**  
 ⚔️ **Red Team Practitioner** - Offensive security & adversarial simulation  
-🏆 **Top 4% Global Rank on TryHackMe** - 150+ machines compromised  
+🏆 **Top 3% Global Rank on TryHackMe** - 150+ machines compromised  
 🚩 **CTF Warrior** - Active exploitation, privilege escalation, post-exploitation  
 💻 **Security Developer** - Building secure systems & exploitation tools
 
@@ -87,7 +87,7 @@ skills = {
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-007ACC?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
@@ -95,8 +95,8 @@ skills = {
 ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=flat-square)
 ![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat-square)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC2927?style=flat-square)
-![Hashcat](https://img.shields.io/badge/Hashcat-FF1744?style=flat-square)
-![Netcat](https://img.shields.io/badge/Netcat-4EAA25?style=flat-square)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF1733?style=flat-square)
+![Netcat](https://img.shields.io/badge/Netcat-3EAA25?style=flat-square)
 
 </div>
 
@@ -111,7 +111,7 @@ skills = {
 
 <div align="center">
 
-🥇 **TryHackMe: Top 4% Global Rank** - 150+ machines pwned, root access achieved  
+🥇 **TryHackMe: Top 3% Global Rank** - 150+ machines pwned, root access achieved  
 🚩 **CTF Warrior** - Active in CTF competitions, exploitation challenges  
 🔬 **Penetration Testing Labs** - HackTheBox, PortSwigger, VulnHub machines compromised  
 💀 **Exploit Development** - Custom exploit scripts for various CVEs  
@@ -186,11 +186,11 @@ skills = {
 
 | Platform | Status | Focus |
 |:--------:|:------:|:------|
-| 🥇 **TryHackMe** | Top 4% Global | Web Exploitation, Privilege Escalation, CTF |
+| 🥇 **TryHackMe** | Top 3% Global | Web Exploitation, Privilege Escalation, CTF |
 | 🎯 **Hack The Box** | Active | Advanced Pentesting, Real-World Scenarios |
 | 🔧 **GitHub** | Active | Security Tools, CTF Writeups, Exploits |
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C32?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.com)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net)
 
@@ -230,7 +230,7 @@ print("[*] Mission: Break systems, Build defenses, Repeat.")
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayeshlomate)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh@example.com)
+[![Email](https://img.shields.io/badge/Email-D13836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jayeshlomate.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jayeshlomate)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jayeshlomate)
@@ -268,7 +268,7 @@ pentester redteam ctf-player ethical-hacker offensive-security
 ![Open to Collaborations](https://img.shields.io/badge/💡-Open%20to%20Collaborations-00FF00?style=for-the-badge)
 ![Security Projects](https://img.shields.io/badge/🤝-Security%20Projects-FF0000?style=for-the-badge)
 ![CTF Teams](https://img.shields.io/badge/🚩-CTF%20Teams-FFD700?style=for-the-badge)
-![Red Team](https://img.shields.io/badge/🔴-Red%20Team%20Operations-DC143C?style=for-the-badge)
+![Red Team](https://img.shields.io/badge/🔴-Red%20Team%20Operations-DC133C?style=for-the-badge)
 
 <br>
 

@@ -1,200 +1,234 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0EA5E9&height=210&section=header&text=JAYESH%20LOMATE&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Cybersecurity%20%7C%20Software%20Engineering%20%7C%20Founder&descAlignY=56&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0EA5E9&height=220&section=header&text=JAYESH%20LOMATE&fontSize=46&fontColor=FFFFFF&fontAlignY=34&desc=Cybersecurity%20%7C%20Software%20Engineering%20%7C%20Founder&descAlignY=56&descSize=18" width="100%"/>
 
-<a href="https://www.linkforge.site">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Cybersecurity+%7C+Software+Engineering;Founder+%26+Developer+of+LinkForge;Building+secure%2C+scalable+web+products;Offensive+security+meets+product+engineering" alt="Typing introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=850&color=38BDF8&center=true&vCenter=true&width=820&lines=Cybersecurity+%C3%97+Software+Engineering;Founder+%26+Developer+of+LinkForge;Building+secure%2C+scalable+web+products;From+offensive+security+to+production+engineering" alt="Typing introduction"/>
 
 <br/><br/>
 
 <a href="https://www.linkforge.site">
-  <img src="https://img.shields.io/badge/LinkForge-Visit%20Product-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkForge-Live%20Product-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://tryhackme.com/p/jayeshlomate">
-  <img src="https://img.shields.io/badge/TryHackMe-Top%203%25-212C32?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<a href="https://tryhackme.com/p/Jayesh130106lomate">
+<img src="https://img.shields.io/badge/TryHackMe-Top%203%25-212C32?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/jayeshlomate">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jayeshlomate&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Jayesh130106lomate&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-# About
+# About Me
 
-I am a **Computer Engineering student, software developer, cybersecurity practitioner, and founder** focused on building practical products while understanding how modern applications can be attacked, secured, and scaled.
+I am a **Computer Engineering student, software developer, cybersecurity practitioner, and founder** focused on building real-world software while understanding how systems can be attacked, secured, and operated in production.
 
-My work sits at the intersection of **software engineering and cybersecurity**. I build full-stack web applications, backend systems, APIs, and developer tooling, while also working with web application security, penetration testing, vulnerability assessment, CTFs, and security research.
+My work combines two closely connected areas:
 
-Most notably, I am the **Founder and Developer of [LinkForge](https://www.linkforge.site)**, a SaaS platform I am building for creators, digital brands, and growth-focused teams.
+**Software Engineering** — full-stack web applications, backend systems, APIs, databases, cloud infrastructure, performance, and DevOps.
 
-> **Build it. Secure it. Scale it.**
+**Cybersecurity** — web application security, VAPT, penetration testing, reconnaissance, vulnerability research, CTFs, and security-focused automation.
+
+I am also the **Founder and Developer of [LinkForge](https://www.linkforge.site)**, a SaaS platform I am building for creators, digital brands, and growth-focused teams.
+
+> **Build products. Understand the attack surface. Secure the system.**
 
 ---
 
 # LinkForge
 
-## Founder & Developer
+<div align="center">
 
-### [www.linkforge.site](https://www.linkforge.site)
+### Founder & Developer
 
-**LinkForge** is an all-in-one platform for managing links, creator pages, QR campaigns, analytics, and conversion tracking from one place.
+## [www.linkforge.site](https://www.linkforge.site)
 
-### What I am building
+</div>
 
-| Area | Focus |
+**LinkForge** is an all-in-one platform for managing links, creator pages, QR campaigns, analytics, experiments, and conversion tracking from one place.
+
+### Product Areas
+
+| Area | What I am building |
 |---|---|
 | Creator Pages | Customisable pages for creators and digital brands |
-| Link Management | Short links, smart redirects, scheduling, and controls |
-| QR Campaigns | Dynamic QR codes with campaign management |
-| Analytics | Real-time clicks, audience, geo, device, referrer, and UTM insights |
+| Link Management | Short links, smart redirects, scheduling, and access controls |
+| QR Campaigns | Dynamic QR codes and campaign management |
+| Analytics | Real-time clicks, geo, device, referrer, and UTM insights |
 | Experiments | A/B testing and experiment tracking |
 | Conversions | Goal management and server-side conversion tracking |
 | Integrations | APIs, webhooks, automation, and platform integrations |
-| Infrastructure | Production-focused deployment, caching, workers, and observability |
+| Infrastructure | Production-focused workers, caching, observability, and reliability |
 
-### LinkForge Stack
+### LinkForge Technology
 
-`Next.js` `TypeScript` `React` `Tailwind CSS` `shadcn/ui` `Node.js` `Prisma` `PostgreSQL` `Redis` `Vercel` `Cloudflare Workers` `Cloudflare` `Docker`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-[![Visit LinkForge](https://img.shields.io/badge/Explore%20LinkForge-linkforge.site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.linkforge.site)
+<br/>
+
+<a href="https://www.linkforge.site">
+<img src="https://img.shields.io/badge/Explore%20LinkForge-linkforge.site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 ---
 
-# Engineering + Cybersecurity
+# Engineering × Cybersecurity
 
-I like working on both sides of the system:
+I enjoy working across the full lifecycle of a system:
 
 ```text
-                 SOFTWARE ENGINEERING
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-     Frontend        Backend        Infrastructure
-        │               │               │
-     React/Next      APIs/DB       Cloud/Workers
-        │               │               │
-        └───────────────┼───────────────┘
-                        │
-                    SECURITY
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-       VAPT        Web Security      Red Team
-        │               │               │
-      Recon        Auth/Access       Exploitation
-        │               │               │
-        └───────────────┼───────────────┘
-                        │
-                 SECURE PRODUCT
+PRODUCT
+  │
+  ├── Frontend ───── React / Next.js / TypeScript
+  │
+  ├── Backend ────── APIs / Node.js / Prisma
+  │
+  ├── Data ────────── PostgreSQL / Redis
+  │
+  ├── Infrastructure ─ Vercel / Cloudflare / Docker
+  │
+  └── Security
+        ├── Reconnaissance
+        ├── Web Application Security
+        ├── VAPT / Penetration Testing
+        ├── Authentication & Access Control
+        ├── Vulnerability Research
+        └── Security Automation
 ```
 
-### Software Engineering
+The goal is not only to make software work, but to understand **how it behaves under real users, real infrastructure, and real attack conditions**.
 
-**Languages**
+---
+
+# Technical Skills
+
+## Software Engineering
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 
-**Web & Backend**
+### Web, Backend & DevOps
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Data, Cloud & DevOps**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-### Cybersecurity
+## Cybersecurity
 
-**Focus Areas**
+`Web Application Security` `VAPT` `Penetration Testing` `Reconnaissance`  
+`Enumeration` `Authentication & Authorisation` `Access Control`  
+`SQL Injection` `XSS` `Command Injection` `File Inclusion`  
+`Privilege Escalation` `CTFs` `Security Automation`
 
-`Web Application Security` `VAPT` `Penetration Testing` `Reconnaissance` `Enumeration`  
-`Authentication & Authorisation` `Access Control` `SQL Injection` `XSS`  
-`Command Injection` `File Inclusion` `Privilege Escalation` `Security Testing` `CTFs`
+### Security Toolkit
 
-**Security Toolkit**
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 
 ---
 
-# What I Build
+# Featured Work
 
-| Project | What it represents |
-|---|---|
-| **LinkForge** | SaaS product engineering, cloud infrastructure, analytics, and secure architecture |
-| **Security Tooling** | Automation and security-focused development |
-| **Web Security Labs** | Hands-on application security and vulnerability research |
-| **CTF Work** | Practical exploitation, enumeration, privilege escalation, and problem solving |
-| **Developer Projects** | Full-stack applications, APIs, databases, and automation |
+### LinkForge
+**Founder & Developer**
+
+A production-focused SaaS platform combining creator pages, smart links, QR campaigns, analytics, experiments, and conversion tracking.
+
+### Security Engineering
+Hands-on security work covering web application testing, vulnerability research, security tooling, and practical penetration testing workflows.
+
+### Full-Stack Development
+Building APIs, dashboards, data-driven applications, automation, and cloud-backed web products using modern TypeScript and Node.js ecosystems.
 
 ---
 
-# Security Achievements
+# Achievements
 
 <div align="center">
 
-### TryHackMe
-## Top 3% Global
+<a href="https://tryhackme.com/p/Jayesh130106lomate">
+<img src="https://img.shields.io/badge/TryHackMe-Top%203%25%20Global-212C32?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
 
 </div>
 
-Hands-on security practice across web exploitation, privilege escalation, enumeration, and CTF-style challenges.
-
-<a href="https://tryhackme.com/p/jayeshlomate">
-<img src="https://img.shields.io/badge/View%20TryHackMe%20Profile-212C32?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-
-### Competitive & Practical Security
-
-- CTF participation and hands-on security challenges
-- Web application security labs and vulnerability research
-- Security-focused automation and tooling
-- Practical penetration testing methodology and reporting
+- Top 3% Global on TryHackMe
+- Hands-on CTF and security challenge experience
+- Practical web application security and penetration testing
+- Building security-focused automation and developer tooling
 
 ---
 
 # Current Focus
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### Building
 
-**LinkForge** — growing a production-oriented SaaS platform with a strong focus on reliability, analytics, security, and developer experience.
+**LinkForge**
 
-### Learning
+Product engineering, analytics, infrastructure, reliability, and security.
 
-`Advanced Web Security` `Cloud Security` `Secure Architecture` `DevSecOps` `System Design`
+</td>
+<td width="33%" valign="top">
 
-### Improving
+### Security
 
-`Performance` `Observability` `Database Design` `Production Infrastructure` `Security Engineering`
+**Application Security**
+
+Web security, VAPT, vulnerability research, and secure architecture.
+
+</td>
+<td width="33%" valign="top">
+
+### Engineering
+
+**Production Systems**
+
+Performance, observability, databases, DevOps, and scalable architecture.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -202,13 +236,13 @@ Hands-on security practice across web exploitation, privilege escalation, enumer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jayeshlomate&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jayesh130106lomate&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshlomate&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh130106lomate&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshlomate&hide_border=true&theme=transparent" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh130106lomate&hide_border=true&theme=transparent" height="180"/>
 
 </div>
 
@@ -218,23 +252,23 @@ Hands-on security practice across web exploitation, privilege escalation, enumer
 
 <div align="center">
 
-<a href="https://github.com/Platane/snk">
-  <img src="https://raw.githubusercontent.com/jayeshlomate/jayeshlomate/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jayesh130106lomate/Jayesh130106lomate/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jayesh130106lomate/Jayesh130106lomate/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Jayesh130106lomate/Jayesh130106lomate/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
----
-
-# Featured Repositories
-
-Pin your strongest repositories on your GitHub profile and use this section to guide visitors toward the projects that best represent your work.
-
-**Recommended order**
-
-`LinkForge` → `Security Tooling` → `CTF / Security Research` → `Full-Stack Projects` → `DevOps / Infrastructure`
-
----
 
 # Connect
 
@@ -246,8 +280,11 @@ Pin your strongest repositories on your GitHub profile and use this section to g
 <a href="https://www.linkedin.com/in/jayeshlomate">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://tryhackme.com/p/jayeshlomate">
+<a href="https://tryhackme.com/p/Jayesh130106lomate">
 <img src="https://img.shields.io/badge/TryHackMe-212C32?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+<a href="https://github.com/Jayesh130106lomate">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -256,9 +293,15 @@ Pin your strongest repositories on your GitHub profile and use this section to g
 
 <div align="center">
 
-### Software Engineering × Cybersecurity
+### Cybersecurity × Software Engineering × Product Building
 
 **Building products with an attacker's mindset and an engineer's discipline.**
+
+<br/>
+
+<a href="https://www.linkforge.site">
+<strong>Explore LinkForge →</strong>
+</a>
 
 </div>
 
@@ -266,6 +309,6 @@ Pin your strongest repositories on your GitHub profile and use this section to g
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:161B22,100:0D1117&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:111827,100:0B1220&height=120&section=footer" width="100%"/>
 
 </div>

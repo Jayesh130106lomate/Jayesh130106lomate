@@ -262,7 +262,7 @@ Performance, observability, databases, DevOps, and scalable architecture.
     srcset="https://raw.githubusercontent.com/Jayesh130106lomate/Jayesh130106lomate/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub contribution snake animation"
+    alt="GitHub contribution snake"
     src="https://raw.githubusercontent.com/Jayesh130106lomate/Jayesh130106lomate/output/github-contribution-grid-snake.svg"
   />
 </picture>

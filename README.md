@@ -1,283 +1,271 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=JAYESH%20LOMATE&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0EA5E9&height=210&section=header&text=JAYESH%20LOMATE&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Cybersecurity%20%7C%20Software%20Engineering%20%7C%20Founder&descAlignY=56&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00FF31&center=true&vCenter=true&width=700&lines=Penetration+Tester+%7C+Ethical+Hacker;Red+Team+Enthusiast+%7C+Top+3%25+TryHackMe;CTF+Player+%7C+Security+Researcher;Offensive+Security+%7C+Web+Exploitation" alt="Typing SVG" />
+<a href="https://www.linkforge.site">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Cybersecurity+%7C+Software+Engineering;Founder+%26+Developer+of+LinkForge;Building+secure%2C+scalable+web+products;Offensive+security+meets+product+engineering" alt="Typing introduction"/>
+</a>
 
-<br>
+<br/><br/>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jayeshlomate)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.com)
-![Profile Views](https://komarev.com/ghpvc/?username=jayeshlomate&color=00FF00&style=for-the-badge&label=Profile+Views)
+<a href="https://www.linkforge.site">
+  <img src="https://img.shields.io/badge/LinkForge-Visit%20Product-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://tryhackme.com/p/jayeshlomate">
+  <img src="https://img.shields.io/badge/TryHackMe-Top%203%25-212C32?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jayeshlomate">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</div>
+<br/><br/>
 
----
-
-## 👨‍💻 About Me
-
-```bash
-┌──(jayesh㉿kali)-[~]
-└─$ cat identity.txt
-
-[*] Initializing profile...
-[+] Access granted: Penetration Tester & Ethical Hacker
-[+] Specialization: Offensive Security | Web Exploitation
-[+] Rank: Top 3% Global on TryHackMe
-[!] Status: Active in CTF battles & security research
-```
-
-🎯 **Penetration Tester & Ethical Hacker**  
-⚔️ **Red Team Practitioner** - Offensive security & adversarial simulation  
-🏆 **Top 3% Global Rank on TryHackMe** - 150+ machines compromised  
-🚩 **CTF Warrior** - Active exploitation, privilege escalation, post-exploitation  
-💻 **Security Developer** - Building secure systems & exploitation tools
-
-> *"Breaking into systems to build unbreakable defenses"*  
-> *— Penetration testing is not just finding vulnerabilities, it's understanding the attacker's mind*
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,bash,git,linux&perline=8" />
-</p>
-
-```python
-skills = {
-    "Python": ["Automation", "Exploit Scripting", "Web Attacks", "Cryptography"],
-    "Java": ["Backend APIs", "Security-Aware Services", "Enterprise Apps"],
-    "C/C++": ["Low-Level Programming", "Memory Management", "Binary Analysis"]
-}
-```
-
-### 🔴 Penetration Testing & Red Team
-
-<table>
-<tr>
-<td width="50%">
-
-**🌐 Web Application Penetration Testing**
-- 💉 SQL Injection (SQLi) - Database extraction & exploitation
-- 🎭 Cross-Site Scripting (XSS) - Session hijacking & DOM manipulation
-- 🔗 CSRF & IDOR - Access control exploitation
-- 📁 LFI/RFI - Remote code execution via file inclusion
-- 🔓 Authentication Bypass - Session manipulation & broken auth
-- 🚀 Command Injection - OS-level exploitation
-
-</td>
-<td width="50%">
-
-**⚔️ Penetration Testing Methodology**
-- 🔍 **Reconnaissance** - OSINT, subdomain enumeration, fingerprinting
-- 📡 **Scanning & Enumeration** - Port scanning, service detection
-- 💥 **Exploitation** - Weaponizing vulnerabilities, payload delivery
-- ⬆️ **Privilege Escalation** - Linux/Windows kernel exploits, misconfigs
-- 🎯 **Post-Exploitation** - Persistence, lateral movement, data exfil
-- 📝 **Reporting** - Professional pentest reports with remediation
-
-</td>
-</tr>
-</table>
-
-### 🧰 Security Tools
-
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-007ACC?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
-![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=flat-square)
-![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat-square)
-![SQLmap](https://img.shields.io/badge/SQLmap-CC2927?style=flat-square)
-![Hashcat](https://img.shields.io/badge/Hashcat-FF1733?style=flat-square)
-![Netcat](https://img.shields.io/badge/Netcat-3EAA25?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=jayeshlomate&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Conquests
+# About
 
-```bash
-┌──(jayesh㉿kali)-[~/achievements]
-└─$ cat hall_of_fame.txt
+I am a **Computer Engineering student, software developer, cybersecurity practitioner, and founder** focused on building practical products while understanding how modern applications can be attacked, secured, and scaled.
+
+My work sits at the intersection of **software engineering and cybersecurity**. I build full-stack web applications, backend systems, APIs, and developer tooling, while also working with web application security, penetration testing, vulnerability assessment, CTFs, and security research.
+
+Most notably, I am the **Founder and Developer of [LinkForge](https://www.linkforge.site)**, a SaaS platform I am building for creators, digital brands, and growth-focused teams.
+
+> **Build it. Secure it. Scale it.**
+
+---
+
+# LinkForge
+
+## Founder & Developer
+
+### [www.linkforge.site](https://www.linkforge.site)
+
+**LinkForge** is an all-in-one platform for managing links, creator pages, QR campaigns, analytics, and conversion tracking from one place.
+
+### What I am building
+
+| Area | Focus |
+|---|---|
+| Creator Pages | Customisable pages for creators and digital brands |
+| Link Management | Short links, smart redirects, scheduling, and controls |
+| QR Campaigns | Dynamic QR codes with campaign management |
+| Analytics | Real-time clicks, audience, geo, device, referrer, and UTM insights |
+| Experiments | A/B testing and experiment tracking |
+| Conversions | Goal management and server-side conversion tracking |
+| Integrations | APIs, webhooks, automation, and platform integrations |
+| Infrastructure | Production-focused deployment, caching, workers, and observability |
+
+### LinkForge Stack
+
+`Next.js` `TypeScript` `React` `Tailwind CSS` `shadcn/ui` `Node.js` `Prisma` `PostgreSQL` `Redis` `Vercel` `Cloudflare Workers` `Cloudflare` `Docker`
+
+[![Visit LinkForge](https://img.shields.io/badge/Explore%20LinkForge-linkforge.site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.linkforge.site)
+
+---
+
+# Engineering + Cybersecurity
+
+I like working on both sides of the system:
+
+```text
+                 SOFTWARE ENGINEERING
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+     Frontend        Backend        Infrastructure
+        │               │               │
+     React/Next      APIs/DB       Cloud/Workers
+        │               │               │
+        └───────────────┼───────────────┘
+                        │
+                    SECURITY
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+       VAPT        Web Security      Red Team
+        │               │               │
+      Recon        Auth/Access       Exploitation
+        │               │               │
+        └───────────────┼───────────────┘
+                        │
+                 SECURE PRODUCT
 ```
+
+### Software Engineering
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+
+**Web & Backend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Data, Cloud & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Cybersecurity
+
+**Focus Areas**
+
+`Web Application Security` `VAPT` `Penetration Testing` `Reconnaissance` `Enumeration`  
+`Authentication & Authorisation` `Access Control` `SQL Injection` `XSS`  
+`Command Injection` `File Inclusion` `Privilege Escalation` `Security Testing` `CTFs`
+
+**Security Toolkit**
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+
+---
+
+# What I Build
+
+| Project | What it represents |
+|---|---|
+| **LinkForge** | SaaS product engineering, cloud infrastructure, analytics, and secure architecture |
+| **Security Tooling** | Automation and security-focused development |
+| **Web Security Labs** | Hands-on application security and vulnerability research |
+| **CTF Work** | Practical exploitation, enumeration, privilege escalation, and problem solving |
+| **Developer Projects** | Full-stack applications, APIs, databases, and automation |
+
+---
+
+# Security Achievements
 
 <div align="center">
 
-🥇 **TryHackMe: Top 3% Global Rank** - 150+ machines pwned, root access achieved  
-🚩 **CTF Warrior** - Active in CTF competitions, exploitation challenges  
-🔬 **Penetration Testing Labs** - HackTheBox, PortSwigger, VulnHub machines compromised  
-💀 **Exploit Development** - Custom exploit scripts for various CVEs  
-📝 **Security Writeups** - Detailed penetration testing reports & CTF walkthroughs  
-🛠️ **Security Tooling** - Open-source vulnerability scanners & automated exploitation frameworks
+### TryHackMe
+## Top 3% Global
 
-```ascii
-    _______  _______ ___ ___  _______  
-   |   _   ||   _   |   Y   ||   _   | 
-   |.  1   ||.  1   |.  |   ||.  1___| 
-   |.  ____||.  _   |.  |   ||.  __)_  
-   |:  |    |:  |   |:  1   ||:  1   | 
-   |::.|    |::.|:. |::.. . ||::.. . | 
-   `---'    `--- ---`-------'`-------' 
-   [Penetration Testing Achievement Unlocked]
-```
+</div>
+
+Hands-on security practice across web exploitation, privilege escalation, enumeration, and CTF-style challenges.
+
+<a href="https://tryhackme.com/p/jayeshlomate">
+<img src="https://img.shields.io/badge/View%20TryHackMe%20Profile-212C32?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+### Competitive & Practical Security
+
+- CTF participation and hands-on security challenges
+- Web application security labs and vulnerability research
+- Security-focused automation and tooling
+- Practical penetration testing methodology and reporting
+
+---
+
+# Current Focus
+
+### Building
+
+**LinkForge** — growing a production-oriented SaaS platform with a strong focus on reliability, analytics, security, and developer experience.
+
+### Learning
+
+`Advanced Web Security` `Cloud Security` `Secure Architecture` `DevSecOps` `System Design`
+
+### Improving
+
+`Performance` `Observability` `Database Design` `Production Infrastructure` `Security Engineering`
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jayeshlomate&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshlomate&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="175"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshlomate&hide_border=true&theme=transparent" height="175"/>
 
 </div>
 
 ---
 
-## 📂 Penetration Testing Arsenal & Projects
-
-```bash
-┌──(jayesh㉿kali)-[~/tools]
-└─$ ls -la projects/
-```
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔐 **Web Vulnerability Scanner** | Automated pentesting tool for SQLi, XSS, LFI, RCE detection | Python, Requests, BeautifulSoup |
-| ⚡ **Brute-Force Automation Suite** | Multi-protocol credential stuffing & brute-forcing framework | Python, Threading, Asyncio |
-| 💣 **Exploit Development Scripts** | Custom exploits for known CVEs & zero-day research | Python, C, Shellcode |
-| 📝 **CTF Writeups & Walkthroughs** | Detailed penetration testing reports with MITRE ATT&CK mapping | Markdown, Bash, Python |
-| 🛡️ **Secure API with WAF** | Security-hardened REST API with custom firewall rules | Java, Spring Boot, PostgreSQL |
-
----
-
-## 📊 GitHub Statistics
+# Contribution Snake
 
 <div align="center">
-  
-<table>
-<tr>
-<td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshlomate&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
-
-</td>
-<td>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayeshlomate&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshlomate&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=8)
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/Platane/snk">
+  <img src="https://raw.githubusercontent.com/jayeshlomate/jayeshlomate/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</a>
 
 </div>
 
 ---
 
-## 🌐 Security Platforms
+# Featured Repositories
+
+Pin your strongest repositories on your GitHub profile and use this section to guide visitors toward the projects that best represent your work.
+
+**Recommended order**
+
+`LinkForge` → `Security Tooling` → `CTF / Security Research` → `Full-Stack Projects` → `DevOps / Infrastructure`
+
+---
+
+# Connect
 
 <div align="center">
 
-| Platform | Status | Focus |
-|:--------:|:------:|:------|
-| 🥇 **TryHackMe** | Top 3% Global | Web Exploitation, Privilege Escalation, CTF |
-| 🎯 **Hack The Box** | Active | Advanced Pentesting, Real-World Scenarios |
-| 🔧 **GitHub** | Active | Security Tools, CTF Writeups, Exploits |
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C32?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=white)](https://hackthebox.com)
-[![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net)
+<a href="https://www.linkforge.site">
+<img src="https://img.shields.io/badge/LinkForge-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jayeshlomate">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://tryhackme.com/p/jayeshlomate">
+<img src="https://img.shields.io/badge/TryHackMe-212C32?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
 
 </div>
 
----
-
-## 💼 Current Operations
-
-```python
-#!/usr/bin/env python3
-# Current penetration testing operations
-
-class PenetrationTester:
-    def __init__(self):
-        self.target = "Web Applications & Infrastructure"
-        self.mission = "Offensive Security Operations"
-    
-    def current_operations(self):
-        return {
-            "🔍 Research": "Advanced web application penetration testing techniques",
-            "💻 Development": "Building automated exploitation frameworks in Python",
-            "📚 Learning": "Active Directory penetration testing & privilege escalation",
-            "🚩 Competition": "CTF battles, bug bounty hunting, security challenges",
-            "⚔️ Red Teaming": "Adversarial simulation & offensive security research",
-            "🛠️ Building": "Custom exploit scripts & penetration testing tools"
-        }
-
-pentester = PenetrationTester()
-print("[*] Mission: Break systems, Build defenses, Repeat.")
-```
-
----
-
-## 📫 Connect With Me
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayeshlomate)
-[![Email](https://img.shields.io/badge/Email-D13836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jayeshlomate.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jayeshlomate)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jayeshlomate)
+### Software Engineering × Cybersecurity
+
+**Building products with an attacker's mindset and an engineer's discipline.**
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 🔒 *"Hack the Planet, Ethically"* 🔒
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:161B22,100:0D1117&height=110&section=footer" width="100%"/>
 
-```bash
-┌──(jayesh㉿kali)-[~]
-└─$ whoami
-Jayesh Lomate
-
-┌──(jayesh㉿kali)-[~]
-└─$ cat /etc/passwd | grep jayesh
-jayesh:x:1337:1337:Penetration Tester,Ethical Hacker,Red Team:/home/jayesh:/bin/bash
-
-┌──(jayesh㉿kali)-[~]
-└─$ groups
-pentester redteam ctf-player ethical-hacker offensive-security
-
-┌──(jayesh㉿kali)-[~]
-└─$ echo $MISSION
-"Testing security by thinking like an attacker, building defenses like a defender"
-```
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-<br>
-
-![Open to Collaborations](https://img.shields.io/badge/💡-Open%20to%20Collaborations-00FF00?style=for-the-badge)
-![Security Projects](https://img.shields.io/badge/🤝-Security%20Projects-FF0000?style=for-the-badge)
-![CTF Teams](https://img.shields.io/badge/🚩-CTF%20Teams-FFD700?style=for-the-badge)
-![Red Team](https://img.shields.io/badge/🔴-Red%20Team%20Operations-DC133C?style=for-the-badge)
-
-<br>
-
-**Available for**: Security Research • Penetration Testing • CTF Collaborations • Open Source Projects
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
